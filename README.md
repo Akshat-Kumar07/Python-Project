@@ -6,6 +6,7 @@ This Python-based project, "120 Years of Olympic History", is designed to explor
 Exploratory Data Analysis (EDA) is a critical step in any data-driven project. It helps to understand the dataset, detect patterns, spot anomalies, test hypotheses, and summarize the main characteristics of the data. For the "120 Years of Olympic History" project, the EDA process can be broken down into the following steps:
 
 ## Conclusion
+
 This project, “120 Years of Olympic History: Analysis and Visualization using Python,” provided an in-depth exploration of one of the world’s most prestigious sporting events—the Olympic Games. Through extensive Exploratory Data Analysis (EDA), this project unveiled valuable insights into the evolution of the Olympics from its inception to the modern era.
 
 The dataset, sourced from Kaggle, contains historical data about athletes, events, medals, cities, teams, and more, spanning from 1896 to 2016. Using powerful Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn, the data was cleaned, structured, and visualized to uncover meaningful trends and patterns.
