@@ -3,6 +3,7 @@ The Olympic Games are one of the most celebrated sporting events in human histor
 This Python-based project, "120 Years of Olympic History", is designed to explore and analyze this extensive historical data. Using tools and techniques from data science and visualization, the project aims to uncover trends, patterns, and insights that have shaped the Olympic Games over the years. From identifying the most successful countries and athletes, to examining how participation has grown and diversified, to exploring the impact of global events like wars and political boycotts — this project serves as a comprehensive study of the Olympics through a data-driven lens.
 
 ## EDA Process
+
 Exploratory Data Analysis (EDA) is a critical step in any data-driven project. It helps to understand the dataset, detect patterns, spot anomalies, test hypotheses, and summarize the main characteristics of the data. For the "120 Years of Olympic History" project, the EDA process can be broken down into the following steps:
 
 ## Conclusion
